@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "aFootprint")(type "KiCad")(uri "/home/bean/ee/lib/aFootprint.pretty")(options "")(descr ""))
+)
