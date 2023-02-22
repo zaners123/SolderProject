@@ -4,6 +4,11 @@
 
   (paper "A5")
 
+  (title_block
+    (title "Solder Project")
+    (comment 1 "By Zane C")
+  )
+
   (lib_symbols
     (symbol "4xxx:4017" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -7.62 16.51 0)
@@ -1011,12 +1016,6 @@
   (wire (pts (xy 93.98 49.53) (xy 97.79 49.53))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fe0061e1-cb3d-4993-95a5-74d8e5ca938e)
-  )
-
-  (text "TODO:\n - Silkscreen:\n    - IEEE Logo for LEDs\n    - IEEE club QR code\n    - Board Github QR code\n - component selection\n"
-    (at 144.78 34.29 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 8b77221e-da77-4a18-856b-3a0fd3ab912a)
   )
 
   (label "LED_K" (at 151.13 74.93 0)
