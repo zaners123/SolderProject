@@ -1094,7 +1094,7 @@
     (property "Reference" "B1" (id 0) (at 26.67 58.9279 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5V-15V" (id 1) (at 26.67 61.4679 0)
+    (property "Value" "5V-14V" (id 1) (at 26.67 61.4679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 22.86 60.706 90)
@@ -1424,7 +1424,7 @@
       (reference "#PWR0102") (unit 1) (value "VCC") (footprint "")
     )
     (path "/593f335d-d488-4988-85df-238b218b998e"
-      (reference "B1") (unit 1) (value "5V-15V") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "B1") (unit 1) (value "5V-14V") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/54874b9c-f3e3-4955-9dfb-de4fec668e9d"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
